@@ -1,0 +1,114 @@
+html {
+        background-size: cover;
+}
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color: #AEF7C2;
+    color:#0A561F;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p {
+
+}
+.container {
+}
+
+.header{
+    background-color:  #118A31;
+    color: #AEF7C2;
+    box-shadow: 10px 10px 5px #888888;
+    padding: 30px;
+    border-radius: 10px;
+}
+.input {
+    float: left;
+    padding:20px;
+    width: 30%;
+    margin: auto;
+}
+
+.images {
+    width: 70%;
+    margin: auto;
+     margin-bottom: 30px;
+     margin-left: 20px;
+}
+
+.results {
+    clear: both;
+    float: left;
+    width: 50%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.result-title{
+    padding: 5px;
+}
+.result-row{
+    padding: 8px;
+}
+
+
+
+.image {
+    height: 250px;
+    width:  200px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.form {
+    float: right;
+    padding:20px;
+    width: 40%;
+    margin-top: 30px;
+}
+
+.form-row{
+    padding: 10px;
+}
+span{
+    padding: 5px;
+}
+
+
+
+.button {
+    margin: 20px;
+    border: 2px solid #0A561F;
+    border-bottom: 2.5px solid #0A561F;
+    border-radius: 5px;
+    padding: 8px;
+    background: rgba(17, 138, 49,1);
+    box-shadow: 2px 2px 2px #888888;
+    color: #AEF7C2;
+    font-size: 13px;
+    height: 55px;
+    width: 140px;
+    text-align: center;
+}
+
+.select-box {
+        background: white;
+        color: #620000;
+        width: 230px;
+        padding: 5px;
+        font-size: 12px;
+        line-height:1;
+        border: 0;
+        border-radius: 5;
+        height: 25px; 
+}
+
+
+
